@@ -14,7 +14,7 @@ Welcome to DiG Computers, sign up for updates. Exciting developments are coming 
 <div id="mc_embed_signup">
     <form action="https://ieee.us4.list-manage.com/subscribe/post?u=b321787668b36939f5d34060c&amp;id=809d432c40&amp;f_id=00140fe3f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
         <div id="mc_embed_signup_scroll"><h2></h2>
-            <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div>
+            <div class="mc-field-group"><label for="mce-EMAIL" style="color:black">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div>
         <div id="mce-responses" class="clear foot">
             <div class="response" id="mce-error-response" style="display: none;"></div>
             <div class="response" id="mce-success-response" style="display: none;"></div>
